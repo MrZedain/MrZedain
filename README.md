@@ -1,6 +1,9 @@
 
 # Frontend Developer
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali-a4855a310/) 
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -22,10 +25,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZedain&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali-a4855a310/) 
 
 
 [![](https://visitcount.itsvg.in/api?id=MrZedain&icon=0&color=0)](https://visitcount.itsvg.in)
