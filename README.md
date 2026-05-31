@@ -1,6 +1,6 @@
 
 # 💻 Frontend Developer [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali-a4855a310/)  
-Poertfolio website: https://portfolio-website-bay-pi.vercel.app/
+Portfolio website: https://portfolio-website-bay-pi.vercel.app/
 
 
 ---
